@@ -1,10 +1,10 @@
-# Gaia FontAwesome
+# Gaia Font Icons
 
-** A Font Awesome based for Gaia **
+** A Font Icons based for Gaia **
 
 ## Adding more icons
 
-1. cd ~/Projetos/gaia-fontawesome/
+1. cd ~/Projetos/gaia-font-icons/
 
 
 ## Adding more icons
@@ -14,7 +14,7 @@
 
 ```sh
 # Update repo
-cd folder/gaia-fontawesome
+cd folder/gaia-font-icons
 git pull origin master
 
 # Generate fonts
@@ -45,5 +45,5 @@ gem install fontcustom
 #### gaia-fontawesome repo
 ```sh
 cd folder/to/save
-git clone  https://github.com/I-Value/gaia-fontawesome.git
+git clone  https://github.com/I-Value/gaia-font-icons.git
 ```
