@@ -1,0 +1,16 @@
+{
+  "name": "gaia-font-icons",
+  "version": "1.0.0",
+  "homepage": "https://github.com/I-Value/gaia-font-icons",
+  "authors": [
+    "Jessé Pinheiro <jessebpinheiro@hotmail.com>"
+  ],
+  "description": "A FontAwesome complement",
+  "main": "gaia-font-icons/gaia-font-icons.css",
+  "keywords": [
+    "fontawesome",
+    "gaia-font-icons",
+    "valuegaia"
+  ],
+  "license": "MIT"
+}

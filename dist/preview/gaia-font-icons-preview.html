@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>gaia-font-icons glyphs preview</title>
+
+    <style>
+      /* Page Styles */
+
+      * {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        background: #fff;
+        color: #444;
+        font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      a,
+      a:visited {
+        color: #888;
+        text-decoration: underline;
+      }
+      a:hover,
+      a:focus { color: #000; }
+
+      header {
+        border-bottom: 2px solid #ddd;
+        margin-bottom: 20px;
+        overflow: hidden;
+        padding: 20px 0;
+      }
+
+      header h1 {
+        color: #888;
+        float: left;
+        font-size: 36px;
+        font-weight: 300;
+      }
+
+      header a {
+        float: right;
+        font-size: 14px;
+      }
+
+      .container {
+        margin: 0 auto;
+        max-width: 1200px;
+        min-width: 960px;
+        padding: 0 40px;
+        width: 90%;
+      }
+
+      .glyph {
+        border-bottom: 1px dotted #ccc;
+        padding: 10px 0 20px;
+        margin-bottom: 20px;
+      }
+
+      .preview-glyphs { vertical-align: bottom; }
+
+      .preview-scale {
+        color: #888;
+        font-size: 12px;
+        margin-top: 5px;
+      }
+
+      .step {
+        display: inline-block;
+        line-height: 1;
+        position: relative;
+        width: 10%;
+      }
+
+      .step .letters,
+      .step i {
+        -webkit-transition: opacity .3s;
+        -moz-transition: opacity .3s;
+        -ms-transition: opacity .3s;
+        -o-transition: opacity .3s;
+        transition: opacity .3s;
+      }
+
+      .step:hover .letters { opacity: 1; }
+      .step:hover i { opacity: .3; }
+
+      .letters {
+        opacity: .3;
+        position: absolute;
+      }
+
+      .characters-off .letters { display: none; }
+      .characters-off .step:hover i { opacity: 1; }
+
+      
+      .size-12 { font-size: 12px; }
+      
+      .size-14 { font-size: 14px; }
+      
+      .size-16 { font-size: 16px; }
+      
+      .size-18 { font-size: 18px; }
+      
+      .size-21 { font-size: 21px; }
+      
+      .size-24 { font-size: 24px; }
+      
+      .size-36 { font-size: 36px; }
+      
+      .size-48 { font-size: 48px; }
+      
+      .size-60 { font-size: 60px; }
+      
+      .size-72 { font-size: 72px; }
+      
+
+      .usage { margin-top: 10px; }
+
+      .usage input {
+        font-family: monospace;
+        margin-right: 3px;
+        padding: 2px 5px;
+        text-align: center;
+      }
+
+      .usage .point { width: 150px; }
+
+      .usage .class { width: 250px; }
+
+      footer {
+        color: #888;
+        font-size: 12px;
+        padding: 20px 0;
+      }
+
+      /* Icon Font: gaia-font-icons */
+
+      @font-face {
+  font-family: "gaia-font-icons";
+  src: url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.eot?") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "gaia-font-icons";
+  src: url("data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAR8AA0AAAAABrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAEYAAAABkAAAAceclqsU9TLzIAAAGgAAAARwAAAGBPtlv3Y21hcAAAAfwAAABGAAABSuIiFehjdnQgAAACRAAAAAQAAAAEABEBRGdhc3AAAARYAAAACAAAAAj//wADZ2x5ZgAAAlQAAACiAAAAsMM0sdpoZWFkAAABMAAAAC8AAAA2Bw+A12hoZWEAAAFgAAAAHgAAACQC9QFaaG10eAAAAegAAAAUAAAAFAOCAA5sb2NhAAACSAAAAAwAAAAMAFQArG1heHAAAAGAAAAAHwAAACAASQBLbmFtZQAAAvgAAAE4AAACf1tyERtwb3N0AAAEMAAAACUAAAA0TXGgvXjaY2BkYGAAYo/ZOxXj+W2+MnAzMYDAZb8FJjD6/1+gknDGIiCXgwEsDQAemAonAHjaY2BkYGAsYmBg0GMM+f8XyA5nAIqgAFYAUJ8DUgAAeNpjYGRgYGBlkGJgYgABEMnIABJzYNADCQAABl4AlQB42mNgYeRjnMDAysDA6MOYxsDA4A6lvzJIMrQwMDAxsDIzwACjAAMCBKS5pjA0MCh8FGc88P8Agx5jEUQNkhIFBkYA6hgKUAAAuwARAAAAAACqAAAAyAAAAVT//XjaY2BgYGaAYBkGRgYQcAHyGMF8FgYNIM0GpBkZmBgUPor//w/kg+n/j/neQtUDASMbA5zDyAQkmBhQASPEiuEMAOyKCfwAAAARAUQAAAAqACoAKgAqAFh42j3MPQrCQBDF8TezmV2w20bRRkgg6Qy4kDQBTxG8gQew8QpewSJzAasEj+AxvII38Gu3sXv8HvzB8AAu1MPAYTMS6m5yGZ7b0cqjmwzHidEklsSTs/TqJkoefPBV8IU/nw4H6j9XTyHW6PvGivZ0xBJoF3Nni7wmZ/Oq3FFVNmtqm6g3FWGT8aBsWURVZqKDWJF7eliV/6w2ckz/AAneJGwAAHjalY+9SgNBFIXP5A+0MILW4YJNItllkpAUKWwCiw8QUgrLkuwOyEyYpMk7WPgANr6Ahb2Fb+aZzQgiImRgmO+ee+b+ALjAGxSO5wb3kRW6eIrcwDneIzdxq64it9BVD5HbuFTPkTvUP+lUrTNGWf0rsEIPj5EbuMZL5CaW+IjcQk/dRW5DlI3cof6KBRy2OMDDoESFPQR9FBjwHUNjhBmG5CVzBjk9jlFGfw5LX1AtsHDbgzdltZd+MZCxHs2GsqxMXjrJfG6LytBU8k+okWDDKpa9EsZFzTumc5MnG2f3iSmcpfCn66chi4bwepZf10OnHFsw5/2/4dEzoTbl/V4WGRtkzpdrGada5vJrLCqTZJqEFU/faMURPTOmdghbhqZp/YahsVr7nXFWtB6lWms5ucUXwhhspHjaY2BiAIP/BxgkGbABViBmZGBiYGZkYi/Ny3QzNDQHAFvEBBsAAAAAAAAB//8AAnjaY2BgYGQAgss6Wh5g2m+BCYwGADatBV0AAAA=") format("woff"),
+       url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.ttf") format("truetype"),
+       url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.svg#gaia-font-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "gaia-font-icons";
+    src: url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.svg#gaia-font-icons") format("svg");
+  }
+}
+
+      [data-icon]:before { content: attr(data-icon); }
+
+      [data-icon]:before,
+      .ing-close-01:before {
+        display: inline-block;
+  font-family: "gaia-font-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+      }
+
+      .ing-close-01:before { content: "\f117"; }
+    </style>
+
+    <!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+    <script>
+      function toggleCharacters() {
+        var body = document.getElementsByTagName('body')[0];
+        body.className = body.className === 'characters-off' ? '' : 'characters-off';
+      }
+    </script>
+  </head>
+
+  <body class="characters-off">
+    <div id="page" class="container">
+      <header>
+        <h1>gaia-font-icons contains 1 glyphs:</h1>
+        <a onclick="toggleCharacters(); return false;" href="#">Toggle Preview Characters</a>
+      </header>
+
+      
+      <div class="glyph">
+        <div class="preview-glyphs">
+          <span class="step size-12"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-14"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-16"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-18"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-21"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-24"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-36"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-48"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-60"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span><span class="step size-72"><span class="letters">Pp</span><i id="ing-close-01" class="ing-close-01"></i></span>
+        </div>
+        <div class="preview-scale">
+          <span class="step">12</span><span class="step">14</span><span class="step">16</span><span class="step">18</span><span class="step">21</span><span class="step">24</span><span class="step">36</span><span class="step">48</span><span class="step">60</span><span class="step">72</span>
+        </div>
+        <div class="usage">
+          <input class="class" type="text" readonly="readonly" onClick="this.select();" value=".ing-close-01" />
+          <input class="point" type="text" readonly="readonly" onClick="this.select();" value="&amp;#xf117;" />
+        </div>
+      </div>
+      
+
+      <footer>
+        Made with love using <a href="http://fontcustom.com">Font Custom</a>.
+      </footer>
+    </div>
+  </body>
+</html>

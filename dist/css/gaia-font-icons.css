@@ -1,0 +1,46 @@
+/*
+  Icon Font: gaia-font-icons
+*/
+
+@font-face {
+  font-family: "gaia-font-icons";
+  src: url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.eot?") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "gaia-font-icons";
+  src: url("data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAR8AA0AAAAABrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAEYAAAABkAAAAceclqsU9TLzIAAAGgAAAARwAAAGBPtlv3Y21hcAAAAfwAAABGAAABSuIiFehjdnQgAAACRAAAAAQAAAAEABEBRGdhc3AAAARYAAAACAAAAAj//wADZ2x5ZgAAAlQAAACiAAAAsMM0sdpoZWFkAAABMAAAAC8AAAA2Bw+A12hoZWEAAAFgAAAAHgAAACQC9QFaaG10eAAAAegAAAAUAAAAFAOCAA5sb2NhAAACSAAAAAwAAAAMAFQArG1heHAAAAGAAAAAHwAAACAASQBLbmFtZQAAAvgAAAE4AAACf1tyERtwb3N0AAAEMAAAACUAAAA0TXGgvXjaY2BkYGAAYo/ZOxXj+W2+MnAzMYDAZb8FJjD6/1+gknDGIiCXgwEsDQAemAonAHjaY2BkYGAsYmBg0GMM+f8XyA5nAIqgAFYAUJ8DUgAAeNpjYGRgYGBlkGJgYgABEMnIABJzYNADCQAABl4AlQB42mNgYeRjnMDAysDA6MOYxsDA4A6lvzJIMrQwMDAxsDIzwACjAAMCBKS5pjA0MCh8FGc88P8Agx5jEUQNkhIFBkYA6hgKUAAAuwARAAAAAACqAAAAyAAAAVT//XjaY2BgYGaAYBkGRgYQcAHyGMF8FgYNIM0GpBkZmBgUPor//w/kg+n/j/neQtUDASMbA5zDyAQkmBhQASPEiuEMAOyKCfwAAAARAUQAAAAqACoAKgAqAFh42j3MPQrCQBDF8TezmV2w20bRRkgg6Qy4kDQBTxG8gQew8QpewSJzAasEj+AxvII38Gu3sXv8HvzB8AAu1MPAYTMS6m5yGZ7b0cqjmwzHidEklsSTs/TqJkoefPBV8IU/nw4H6j9XTyHW6PvGivZ0xBJoF3Nni7wmZ/Oq3FFVNmtqm6g3FWGT8aBsWURVZqKDWJF7eliV/6w2ckz/AAneJGwAAHjalY+9SgNBFIXP5A+0MILW4YJNItllkpAUKWwCiw8QUgrLkuwOyEyYpMk7WPgANr6Ahb2Fb+aZzQgiImRgmO+ee+b+ALjAGxSO5wb3kRW6eIrcwDneIzdxq64it9BVD5HbuFTPkTvUP+lUrTNGWf0rsEIPj5EbuMZL5CaW+IjcQk/dRW5DlI3cof6KBRy2OMDDoESFPQR9FBjwHUNjhBmG5CVzBjk9jlFGfw5LX1AtsHDbgzdltZd+MZCxHs2GsqxMXjrJfG6LytBU8k+okWDDKpa9EsZFzTumc5MnG2f3iSmcpfCn66chi4bwepZf10OnHFsw5/2/4dEzoTbl/V4WGRtkzpdrGada5vJrLCqTZJqEFU/faMURPTOmdghbhqZp/YahsVr7nXFWtB6lWms5ucUXwhhspHjaY2BiAIP/BxgkGbABViBmZGBiYGZkYi/Ny3QzNDQHAFvEBBsAAAAAAAAB//8AAnjaY2BgYGQAgss6Wh5g2m+BCYwGADatBV0AAAA=") format("woff"),
+       url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.ttf") format("truetype"),
+       url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.svg#gaia-font-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "gaia-font-icons";
+    src: url("../fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.svg#gaia-font-icons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.ing-close-01:before {
+  display: inline-block;
+  font-family: "gaia-font-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.ing-close-01:before { content: "\f117"; }

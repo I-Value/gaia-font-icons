@@ -1,0 +1,53 @@
+{
+  "checksum": {
+    "previous": "f2260eca9457a5cdc047c560e915fcb7b41d26f931b82fc7676d60d57a5d26b5",
+    "current": "f2260eca9457a5cdc047c560e915fcb7b41d26f931b82fc7676d60d57a5d26b5"
+  },
+  "fonts": [
+    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.ttf",
+    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.svg",
+    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.woff",
+    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.eot"
+  ],
+  "glyphs": {
+    "close-01": {
+      "codepoint": 61719,
+      "source": "svg/close-01.svg"
+    }
+  },
+  "options": {
+    "autowidth": true,
+    "base64": true,
+    "config": "fontcustom.yml",
+    "css_selector": ".ing-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "gaia-font-icons",
+    "force": false,
+    "input": {
+      "templates": "svg/",
+      "vectors": "svg/"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "dist/css",
+      "fonts": "dist/fonts",
+      "preview": "dist/preview"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "scss-rails",
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "dist/css/_gaia-font-icons-rails.scss",
+    "dist/css/gaia-font-icons.css",
+    "dist/preview/gaia-font-icons-preview.html"
+  ]
+}
