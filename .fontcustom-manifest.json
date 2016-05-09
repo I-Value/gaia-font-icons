@@ -1,18 +1,218 @@
 {
   "checksum": {
-    "previous": "f2260eca9457a5cdc047c560e915fcb7b41d26f931b82fc7676d60d57a5d26b5",
-    "current": "f2260eca9457a5cdc047c560e915fcb7b41d26f931b82fc7676d60d57a5d26b5"
+    "previous": "b507353aaa06790c9f9d03593a3ee6bff5f614231af233582556d30a8a043f8f",
+    "current": "b507353aaa06790c9f9d03593a3ee6bff5f614231af233582556d30a8a043f8f"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.ttf",
-    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.svg",
-    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.woff",
-    "dist/fonts/gaia-font-icons_f2260eca9457a5cdc047c560e915fcb7.eot"
+    "dist/fonts/gaia-font-icons_b507353aaa06790c9f9d03593a3ee6bf.ttf",
+    "dist/fonts/gaia-font-icons_b507353aaa06790c9f9d03593a3ee6bf.svg",
+    "dist/fonts/gaia-font-icons_b507353aaa06790c9f9d03593a3ee6bf.woff",
+    "dist/fonts/gaia-font-icons_b507353aaa06790c9f9d03593a3ee6bf.eot"
   ],
   "glyphs": {
-    "close-01": {
-      "codepoint": 61719,
-      "source": "svg/close-01.svg"
+    "arrow-circle-up": {
+      "codepoint": 61720,
+      "source": "svg/arrow-circle-up.svg"
+    },
+    "arrow-down": {
+      "codepoint": 61721,
+      "source": "svg/arrow-down.svg"
+    },
+    "bar-y": {
+      "codepoint": 61722,
+      "source": "svg/bar-y.svg"
+    },
+    "bathroom": {
+      "codepoint": 61723,
+      "source": "svg/bathroom.svg"
+    },
+    "bed": {
+      "codepoint": 61724,
+      "source": "svg/bed.svg"
+    },
+    "building": {
+      "codepoint": 61725,
+      "source": "svg/building.svg"
+    },
+    "bullhorn": {
+      "codepoint": 61726,
+      "source": "svg/bullhorn.svg"
+    },
+    "calendar": {
+      "codepoint": 61727,
+      "source": "svg/calendar.svg"
+    },
+    "camera": {
+      "codepoint": 61728,
+      "source": "svg/camera.svg"
+    },
+    "camera-no-image": {
+      "codepoint": 61729,
+      "source": "svg/camera-no-image.svg"
+    },
+    "car": {
+      "codepoint": 61730,
+      "source": "svg/car.svg"
+    },
+    "check": {
+      "codepoint": 61731,
+      "source": "svg/check.svg"
+    },
+    "close": {
+      "codepoint": 61732,
+      "source": "svg/close.svg"
+    },
+    "columns-alt": {
+      "codepoint": 61733,
+      "source": "svg/columns-alt.svg"
+    },
+    "comments": {
+      "codepoint": 61734,
+      "source": "svg/comments.svg"
+    },
+    "desktop": {
+      "codepoint": 61735,
+      "source": "svg/desktop.svg"
+    },
+    "download": {
+      "codepoint": 61736,
+      "source": "svg/download.svg"
+    },
+    "edit": {
+      "codepoint": 61737,
+      "source": "svg/edit.svg"
+    },
+    "envelope": {
+      "codepoint": 61738,
+      "source": "svg/envelope.svg"
+    },
+    "exchange": {
+      "codepoint": 61739,
+      "source": "svg/exchange.svg"
+    },
+    "exclamation-circle": {
+      "codepoint": 61740,
+      "source": "svg/exclamation-circle.svg"
+    },
+    "exclamation-triangle": {
+      "codepoint": 61741,
+      "source": "svg/exclamation-triangle.svg"
+    },
+    "file": {
+      "codepoint": 61742,
+      "source": "svg/file.svg"
+    },
+    "file-excel": {
+      "codepoint": 61743,
+      "source": "svg/file-excel.svg"
+    },
+    "file-text": {
+      "codepoint": 61744,
+      "source": "svg/file-text.svg"
+    },
+    "file-word": {
+      "codepoint": 61745,
+      "source": "svg/file-word.svg"
+    },
+    "files": {
+      "codepoint": 61746,
+      "source": "svg/files.svg"
+    },
+    "gavel": {
+      "codepoint": 61747,
+      "source": "svg/gavel.svg"
+    },
+    "gear": {
+      "codepoint": 61748,
+      "source": "svg/gear.svg"
+    },
+    "graduation": {
+      "codepoint": 61749,
+      "source": "svg/graduation.svg"
+    },
+    "home": {
+      "codepoint": 61750,
+      "source": "svg/home.svg"
+    },
+    "key": {
+      "codepoint": 61751,
+      "source": "svg/key.svg"
+    },
+    "list-alt": {
+      "codepoint": 61752,
+      "source": "svg/list-alt.svg"
+    },
+    "metrics": {
+      "codepoint": 61753,
+      "source": "svg/metrics.svg"
+    },
+    "phone": {
+      "codepoint": 61754,
+      "source": "svg/phone.svg"
+    },
+    "phone-square": {
+      "codepoint": 61755,
+      "source": "svg/phone-square.svg"
+    },
+    "pie-chart": {
+      "codepoint": 61756,
+      "source": "svg/pie-chart.svg"
+    },
+    "plus": {
+      "codepoint": 61757,
+      "source": "svg/plus.svg"
+    },
+    "print": {
+      "codepoint": 61758,
+      "source": "svg/print.svg"
+    },
+    "question-circle": {
+      "codepoint": 61759,
+      "source": "svg/question-circle.svg"
+    },
+    "rss": {
+      "codepoint": 61760,
+      "source": "svg/rss.svg"
+    },
+    "search": {
+      "codepoint": 61761,
+      "source": "svg/search.svg"
+    },
+    "star": {
+      "codepoint": 61762,
+      "source": "svg/star.svg"
+    },
+    "suite": {
+      "codepoint": 61763,
+      "source": "svg/suite.svg"
+    },
+    "tag": {
+      "codepoint": 61764,
+      "source": "svg/tag.svg"
+    },
+    "th": {
+      "codepoint": 61765,
+      "source": "svg/th.svg"
+    },
+    "thumb-down": {
+      "codepoint": 61766,
+      "source": "svg/thumb-down.svg"
+    },
+    "thumb-up": {
+      "codepoint": 61767,
+      "source": "svg/thumb-up.svg"
+    },
+    "usd-circle": {
+      "codepoint": 61768,
+      "source": "svg/usd-circle.svg"
+    },
+    "user": {
+      "codepoint": 61769,
+      "source": "svg/user.svg"
+    },
+    "users": {
+      "codepoint": 61770,
+      "source": "svg/users.svg"
     }
   },
   "options": {
