@@ -2,6 +2,10 @@
 
 ** A Font Icons based for Gaia **
 
+## Bower
+```
+bower install gaia-font-icons --save
+```
 ## Adding more icons
 
 1. cd ~/Projetos/gaia-font-icons/
