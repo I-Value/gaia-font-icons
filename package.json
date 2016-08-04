@@ -1,0 +1,22 @@
+{
+  "name": "gaia-font-icons",
+  "version": "1.0.0",
+  "description": "inGaia Icons",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingaia/gaia-font-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "inGaia"
+  ],
+  "author": "inGaia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingaia/gaia-font-icons/issues"
+  },
+  "homepage": "https://github.com/ingaia/gaia-font-icons#readme"
+}
