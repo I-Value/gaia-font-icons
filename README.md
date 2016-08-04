@@ -6,6 +6,11 @@
 ```
 bower install gaia-font-icons --save
 ```
+## npm
+```
+npm install gaia-font-icons --save
+```
+
 ## Adding more icons
 
 1. cd ~/Projetos/gaia-font-icons/
