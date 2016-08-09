@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "efcb4475716b4b2f9d4cda678488a6222055ec74bae6d2e2ef409b06aa52437c",
-    "current": "efcb4475716b4b2f9d4cda678488a6222055ec74bae6d2e2ef409b06aa52437c"
+    "previous": "c3a0a052c10624e105079ff2d67c1c09976f033562042df50833bbf6f9f1aa46",
+    "current": "c3a0a052c10624e105079ff2d67c1c09976f033562042df50833bbf6f9f1aa46"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_efcb4475716b4b2f9d4cda678488a622.ttf",
-    "dist/fonts/gaia-font-icons_efcb4475716b4b2f9d4cda678488a622.svg",
-    "dist/fonts/gaia-font-icons_efcb4475716b4b2f9d4cda678488a622.woff",
-    "dist/fonts/gaia-font-icons_efcb4475716b4b2f9d4cda678488a622.eot"
+    "dist/fonts/gaia-font-icons_c3a0a052c10624e105079ff2d67c1c09.ttf",
+    "dist/fonts/gaia-font-icons_c3a0a052c10624e105079ff2d67c1c09.svg",
+    "dist/fonts/gaia-font-icons_c3a0a052c10624e105079ff2d67c1c09.woff",
+    "dist/fonts/gaia-font-icons_c3a0a052c10624e105079ff2d67c1c09.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -74,6 +74,10 @@
       "codepoint": 61735,
       "source": "svg/desktop.svg"
     },
+    "double-right": {
+      "codepoint": 61771,
+      "source": "svg/double-right.svg"
+    },
     "download": {
       "codepoint": 61736,
       "source": "svg/download.svg"
@@ -138,6 +142,10 @@
       "codepoint": 61751,
       "source": "svg/key.svg"
     },
+    "link": {
+      "codepoint": 61772,
+      "source": "svg/link.svg"
+    },
     "list-alt": {
       "codepoint": 61752,
       "source": "svg/list-alt.svg"
@@ -158,6 +166,10 @@
       "codepoint": 61756,
       "source": "svg/pie-chart.svg"
     },
+    "play": {
+      "codepoint": 61773,
+      "source": "svg/play.svg"
+    },
     "plus": {
       "codepoint": 61757,
       "source": "svg/plus.svg"
@@ -169,6 +181,10 @@
     "question-circle": {
       "codepoint": 61759,
       "source": "svg/question-circle.svg"
+    },
+    "reload": {
+      "codepoint": 61774,
+      "source": "svg/reload.svg"
     },
     "rss": {
       "codepoint": 61760,
