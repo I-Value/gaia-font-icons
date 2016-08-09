@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "44c06742bb556c1aecffe0a34744d6e14f6c47b5d670c34634a37112d2328dff",
-    "current": "44c06742bb556c1aecffe0a34744d6e14f6c47b5d670c34634a37112d2328dff"
+    "previous": "56b52a1dbe47114aee2ad61f0f4980582baadc7d35cc9d7110400d4bdebcc765",
+    "current": "56b52a1dbe47114aee2ad61f0f4980582baadc7d35cc9d7110400d4bdebcc765"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.ttf",
-    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.svg",
-    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.woff",
-    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.eot"
+    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.ttf",
+    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.svg",
+    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.woff",
+    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -142,6 +142,14 @@
       "codepoint": 61750,
       "source": "svg/home.svg"
     },
+    "ingaia-ico": {
+      "codepoint": 61776,
+      "source": "svg/ingaia-ico.svg"
+    },
+    "ingaia-logo": {
+      "codepoint": 61777,
+      "source": "svg/ingaia-logo.svg"
+    },
     "key": {
       "codepoint": 61751,
       "source": "svg/key.svg"
@@ -197,6 +205,10 @@
     "search": {
       "codepoint": 61761,
       "source": "svg/search.svg"
+    },
+    "shopping-cart": {
+      "codepoint": 61778,
+      "source": "svg/shopping-cart.svg"
     },
     "star": {
       "codepoint": 61762,
