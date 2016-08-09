@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "510bd019607b099e5624ac6dd77d95315e3abee20716b61bdeeb184148357fd2",
-    "current": "510bd019607b099e5624ac6dd77d95315e3abee20716b61bdeeb184148357fd2"
+    "previous": "44c06742bb556c1aecffe0a34744d6e14f6c47b5d670c34634a37112d2328dff",
+    "current": "44c06742bb556c1aecffe0a34744d6e14f6c47b5d670c34634a37112d2328dff"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_510bd019607b099e5624ac6dd77d9531.ttf",
-    "dist/fonts/gaia-font-icons_510bd019607b099e5624ac6dd77d9531.svg",
-    "dist/fonts/gaia-font-icons_510bd019607b099e5624ac6dd77d9531.woff",
-    "dist/fonts/gaia-font-icons_510bd019607b099e5624ac6dd77d9531.eot"
+    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.ttf",
+    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.svg",
+    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.woff",
+    "dist/fonts/gaia-font-icons_44c06742bb556c1aecffe0a34744d6e1.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
