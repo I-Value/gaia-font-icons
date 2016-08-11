@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "56b52a1dbe47114aee2ad61f0f4980582baadc7d35cc9d7110400d4bdebcc765",
-    "current": "56b52a1dbe47114aee2ad61f0f4980582baadc7d35cc9d7110400d4bdebcc765"
+    "previous": "eb9a835f4abfa35aa06603fcebafd1ebb63376561a06f9b933cb1d7a5af0148f",
+    "current": "eb9a835f4abfa35aa06603fcebafd1ebb63376561a06f9b933cb1d7a5af0148f"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.ttf",
-    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.svg",
-    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.woff",
-    "dist/fonts/gaia-font-icons_56b52a1dbe47114aee2ad61f0f498058.eot"
+    "dist/fonts/gaia-font-icons_eb9a835f4abfa35aa06603fcebafd1eb.ttf",
+    "dist/fonts/gaia-font-icons_eb9a835f4abfa35aa06603fcebafd1eb.svg",
+    "dist/fonts/gaia-font-icons_eb9a835f4abfa35aa06603fcebafd1eb.woff",
+    "dist/fonts/gaia-font-icons_eb9a835f4abfa35aa06603fcebafd1eb.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -57,6 +57,38 @@
     "check": {
       "codepoint": 61731,
       "source": "svg/check.svg"
+    },
+    "chevron-down": {
+      "codepoint": 61780,
+      "source": "svg/chevron-down.svg"
+    },
+    "chevron-left": {
+      "codepoint": 61779,
+      "source": "svg/chevron-left.svg"
+    },
+    "chevron-light-down": {
+      "codepoint": 61781,
+      "source": "svg/chevron-light-down.svg"
+    },
+    "chevron-light-left": {
+      "codepoint": 61782,
+      "source": "svg/chevron-light-left.svg"
+    },
+    "chevron-light-right": {
+      "codepoint": 61783,
+      "source": "svg/chevron-light-right.svg"
+    },
+    "chevron-light-up": {
+      "codepoint": 61784,
+      "source": "svg/chevron-light-up.svg"
+    },
+    "chevron-right": {
+      "codepoint": 61785,
+      "source": "svg/chevron-right.svg"
+    },
+    "chevron-up": {
+      "codepoint": 61786,
+      "source": "svg/chevron-up.svg"
     },
     "clock": {
       "codepoint": 61775,
@@ -126,6 +158,14 @@
       "codepoint": 61746,
       "source": "svg/files.svg"
     },
+    "flag": {
+      "codepoint": 61787,
+      "source": "svg/flag.svg"
+    },
+    "flag-o": {
+      "codepoint": 61788,
+      "source": "svg/flag-o.svg"
+    },
     "gavel": {
       "codepoint": 61747,
       "source": "svg/gavel.svg"
@@ -166,6 +206,18 @@
       "codepoint": 61753,
       "source": "svg/metrics.svg"
     },
+    "music": {
+      "codepoint": 61789,
+      "source": "svg/music.svg"
+    },
+    "music-single": {
+      "codepoint": 61790,
+      "source": "svg/music-single.svg"
+    },
+    "order": {
+      "codepoint": 61791,
+      "source": "svg/order.svg"
+    },
     "phone": {
       "codepoint": 61754,
       "source": "svg/phone.svg"
@@ -194,6 +246,10 @@
       "codepoint": 61759,
       "source": "svg/question-circle.svg"
     },
+    "radar-plus": {
+      "codepoint": 61792,
+      "source": "svg/radar-plus.svg"
+    },
     "reload": {
       "codepoint": 61774,
       "source": "svg/reload.svg"
@@ -202,6 +258,10 @@
       "codepoint": 61760,
       "source": "svg/rss.svg"
     },
+    "sad": {
+      "codepoint": 61793,
+      "source": "svg/sad.svg"
+    },
     "search": {
       "codepoint": 61761,
       "source": "svg/search.svg"
@@ -209,6 +269,10 @@
     "shopping-cart": {
       "codepoint": 61778,
       "source": "svg/shopping-cart.svg"
+    },
+    "smile": {
+      "codepoint": 61794,
+      "source": "svg/smile.svg"
     },
     "star": {
       "codepoint": 61762,
@@ -245,6 +309,22 @@
     "users": {
       "codepoint": 61770,
       "source": "svg/users.svg"
+    },
+    "volume-down": {
+      "codepoint": 61795,
+      "source": "svg/volume-down.svg"
+    },
+    "volume-off": {
+      "codepoint": 61796,
+      "source": "svg/volume-off.svg"
+    },
+    "volume-up": {
+      "codepoint": 61797,
+      "source": "svg/volume-up.svg"
+    },
+    "whatsapp": {
+      "codepoint": 61798,
+      "source": "svg/whatsapp.svg"
     }
   },
   "options": {
