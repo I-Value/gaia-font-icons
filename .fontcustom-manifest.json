@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "794c10aec5adb19247641b086cfd4df2052578573d5d29f6a73545a9a1f7f29a",
-    "current": "794c10aec5adb19247641b086cfd4df2052578573d5d29f6a73545a9a1f7f29a"
+    "previous": "c2d34524e09f27449de9fe8ea436c3654cb6eff90b4401d4d84253bc6455a768",
+    "current": "c2d34524e09f27449de9fe8ea436c3654cb6eff90b4401d4d84253bc6455a768"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.ttf",
-    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.svg",
-    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.woff",
-    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.eot"
+    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.ttf",
+    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.svg",
+    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.woff",
+    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -138,6 +138,14 @@
       "codepoint": 61741,
       "source": "svg/exclamation-triangle.svg"
     },
+    "facebook": {
+      "codepoint": 61801,
+      "source": "svg/facebook.svg"
+    },
+    "facebook-square": {
+      "codepoint": 61802,
+      "source": "svg/facebook-square.svg"
+    },
     "file": {
       "codepoint": 61742,
       "source": "svg/file.svg"
@@ -173,6 +181,10 @@
     "gear": {
       "codepoint": 61748,
       "source": "svg/gear.svg"
+    },
+    "gears": {
+      "codepoint": 61803,
+      "source": "svg/gears.svg"
     },
     "github": {
       "codepoint": 61800,
@@ -274,6 +286,10 @@
       "codepoint": 61761,
       "source": "svg/search.svg"
     },
+    "search-bold": {
+      "codepoint": 61804,
+      "source": "svg/search-bold.svg"
+    },
     "shopping-cart": {
       "codepoint": 61778,
       "source": "svg/shopping-cart.svg"
@@ -333,6 +349,18 @@
     "whatsapp": {
       "codepoint": 61798,
       "source": "svg/whatsapp.svg"
+    },
+    "youtube": {
+      "codepoint": 61805,
+      "source": "svg/youtube.svg"
+    },
+    "youtube-play": {
+      "codepoint": 61806,
+      "source": "svg/youtube-play.svg"
+    },
+    "youtube-square": {
+      "codepoint": 61807,
+      "source": "svg/youtube-square.svg"
     }
   },
   "options": {
