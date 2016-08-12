@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "c2a0c23ce08c30b7b5814997c68f3e4dccec0afed380f705ddb86b96c3fed8ad",
-    "current": "c2a0c23ce08c30b7b5814997c68f3e4dccec0afed380f705ddb86b96c3fed8ad"
+    "previous": "794c10aec5adb19247641b086cfd4df2052578573d5d29f6a73545a9a1f7f29a",
+    "current": "794c10aec5adb19247641b086cfd4df2052578573d5d29f6a73545a9a1f7f29a"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_c2a0c23ce08c30b7b5814997c68f3e4d.ttf",
-    "dist/fonts/gaia-font-icons_c2a0c23ce08c30b7b5814997c68f3e4d.svg",
-    "dist/fonts/gaia-font-icons_c2a0c23ce08c30b7b5814997c68f3e4d.woff",
-    "dist/fonts/gaia-font-icons_c2a0c23ce08c30b7b5814997c68f3e4d.eot"
+    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.ttf",
+    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.svg",
+    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.woff",
+    "dist/fonts/gaia-font-icons_794c10aec5adb19247641b086cfd4df2.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -173,6 +173,10 @@
     "gear": {
       "codepoint": 61748,
       "source": "svg/gear.svg"
+    },
+    "github": {
+      "codepoint": 61800,
+      "source": "svg/github.svg"
     },
     "graduation": {
       "codepoint": 61749,
