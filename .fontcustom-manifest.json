@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "c2d34524e09f27449de9fe8ea436c3654cb6eff90b4401d4d84253bc6455a768",
-    "current": "c2d34524e09f27449de9fe8ea436c3654cb6eff90b4401d4d84253bc6455a768"
+    "previous": "b7f6245db3a5f92c982f173cf4a0fa9c9362edacd327ea191b7987350467b12d",
+    "current": "b7f6245db3a5f92c982f173cf4a0fa9c9362edacd327ea191b7987350467b12d"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.ttf",
-    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.svg",
-    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.woff",
-    "dist/fonts/gaia-font-icons_c2d34524e09f27449de9fe8ea436c365.eot"
+    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.ttf",
+    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.svg",
+    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.woff",
+    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -286,10 +286,6 @@
       "codepoint": 61761,
       "source": "svg/search.svg"
     },
-    "search-bold": {
-      "codepoint": 61804,
-      "source": "svg/search-bold.svg"
-    },
     "shopping-cart": {
       "codepoint": 61778,
       "source": "svg/shopping-cart.svg"
@@ -321,6 +317,10 @@
     "thumb-up": {
       "codepoint": 61767,
       "source": "svg/thumb-up.svg"
+    },
+    "times": {
+      "codepoint": 61808,
+      "source": "svg/times.svg"
     },
     "usd-circle": {
       "codepoint": 61768,
