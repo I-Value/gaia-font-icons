@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "b7f6245db3a5f92c982f173cf4a0fa9c9362edacd327ea191b7987350467b12d",
-    "current": "b7f6245db3a5f92c982f173cf4a0fa9c9362edacd327ea191b7987350467b12d"
+    "previous": "3e81700b94ac20ac3f7ce8348898787d4f4f16364f0910803f9f15fde8fc416c",
+    "current": "3e81700b94ac20ac3f7ce8348898787d4f4f16364f0910803f9f15fde8fc416c"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.ttf",
-    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.svg",
-    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.woff",
-    "dist/fonts/gaia-font-icons_b7f6245db3a5f92c982f173cf4a0fa9c.eot"
+    "dist/fonts/gaia-font-icons_3e81700b94ac20ac3f7ce8348898787d.ttf",
+    "dist/fonts/gaia-font-icons_3e81700b94ac20ac3f7ce8348898787d.svg",
+    "dist/fonts/gaia-font-icons_3e81700b94ac20ac3f7ce8348898787d.woff",
+    "dist/fonts/gaia-font-icons_3e81700b94ac20ac3f7ce8348898787d.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -237,6 +237,10 @@
     "order": {
       "codepoint": 61791,
       "source": "svg/order.svg"
+    },
+    "orulo-logo": {
+      "codepoint": 61809,
+      "source": "svg/orulo-logo.svg"
     },
     "phone": {
       "codepoint": 61754,
