@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-8-31: Created with FontForge (http://fontforge.org)
+2016-9-28: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Wed Aug 31 15:33:14 2016
+Created by FontForge 20160407 at Wed Sep 28 16:17:43 2016
  By Patricia Macedo
 Copyright (c) 2016, Patricia Macedo
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2016, Patricia Macedo
     bbox="-0.75 -66 514 449"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F171"
+    unicode-range="U+0020-F172"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -207,6 +207,9 @@ c-9 12 -20 27 -35 45c-2 3 -4 5 -4 8c0 2 1 5 3 8c6 8 17 19 33 35s25 23 30 23c3 0 
 c2 -2 2 -4 2 -7s-1 -5 -3 -7c-3 -5 -8 -12 -16 -22s-14 -18 -18 -23c6 -11 10 -21 13 -32l60 -10c3 0 5 -2 7 -4s3 -4 3 -7zM311 133c16 16 25 37 25 60s-9 43 -25 59s-36 25 -59 25s-44 -9 -60 -25s-24 -36 -24 -59s8 -44 24 -60s37 -24 60 -24s43 8 59 24z" />
     <glyph glyph-name="uniF12A" unicode="&#xf12a;" 
 d="M0 331l211 -141c27 -18 61 -19 88 -1l213 142v-202c0 -36 -29 -65 -65 -65h-382c-36 0 -65 29 -65 65v202zM447 448h-382c-36 0 -65 -29 -65 -65v-20l228 -152c17 -11 39 -11 56 0l228 152v20c0 36 -29 65 -65 65z" />
+    <glyph glyph-name="uniF172" unicode="&#xf172;" horiz-adv-x="473" 
+d="M385 279c49 0 90 -41 88 -88c0 -49 -39 -89 -88 -89c-25 0 -45 11 -61 25l-148 -74v-10c0 -49 -39 -88 -88 -88s-88 39 -88 88s39 88 88 88c25 0 46 -10 62 -24l147 73v11v10l-147 74c-16 -14 -37 -25 -62 -25c-49 0 -88 39 -88 88s39 88 88 88s90 -39 88 -88v-10
+l148 -74c16 14 36 25 61 25z" />
     <glyph glyph-name="uniF13A" unicode="&#xf13a;" 
 d="M512 21c0 26 -14 49 -35 62v0c-16 9 -31 18 -46 27c-10 6 -21 17 -33 17c-23 0 -56 -68 -76 -68c-10 0 -23 10 -32 15c-68 38 -114 84 -152 152c-5 9 -15 22 -15 32c0 20 67 53 67 76c0 12 -11 23 -17 33c-8 14 -15 28 -23 42c-12 23 -36 39 -64 39
 c-26 0 -48 -14 -60 -35l-1 1c-2 -4 -4 -8 -6 -11c-12 -22 -19 -44 -19 -69c0 -35 14 -66 26 -98c8 -23 18 -45 31 -65c39 -63 115 -139 178 -178c20 -13 42 -23 65 -31c32 -12 63 -26 98 -26c25 0 47 7 69 19v0c26 10 45 36 45 66z" />
