@@ -1,4 +1,4 @@
-# Gaia Font Icons
+`# Gaia Font Icons
 
 ** A Font Icons based for Gaia **
 
@@ -29,10 +29,20 @@ git pull origin master
 # Generate fonts
 fontcustom compile svg/
 
+# Update packages
+Abrir arquivos bower.json e package.json e alterar a versão
+
 # Commit on GitHub
 git add . --all
 git commit -m "Name of icons added"
 git push origin master
+
+# Update Bower
+Criar novo release no GitHub
+
+# Update NPM
+(Se não tiver logado) npm login
+npm publish
 
 ```
 
