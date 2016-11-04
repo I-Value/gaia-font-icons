@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "cd663bb95cda74284760072ad215ca36ceddd62b2c88257dfaa19c7941cfff4e",
-    "current": "cd663bb95cda74284760072ad215ca36ceddd62b2c88257dfaa19c7941cfff4e"
+    "previous": "b3f88199362985e1bc228dbf4ed92649eb7d5e0955c2011f1dadace181a31373",
+    "current": "b3f88199362985e1bc228dbf4ed92649eb7d5e0955c2011f1dadace181a31373"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_cd663bb95cda74284760072ad215ca36.ttf",
-    "dist/fonts/gaia-font-icons_cd663bb95cda74284760072ad215ca36.svg",
-    "dist/fonts/gaia-font-icons_cd663bb95cda74284760072ad215ca36.woff",
-    "dist/fonts/gaia-font-icons_cd663bb95cda74284760072ad215ca36.eot"
+    "dist/fonts/gaia-font-icons_b3f88199362985e1bc228dbf4ed92649.ttf",
+    "dist/fonts/gaia-font-icons_b3f88199362985e1bc228dbf4ed92649.svg",
+    "dist/fonts/gaia-font-icons_b3f88199362985e1bc228dbf4ed92649.woff",
+    "dist/fonts/gaia-font-icons_b3f88199362985e1bc228dbf4ed92649.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -29,6 +29,10 @@
     "bed": {
       "codepoint": 61724,
       "source": "svg/bed.svg"
+    },
+    "box-o": {
+      "codepoint": 61811,
+      "source": "svg/box-o.svg"
     },
     "building": {
       "codepoint": 61725,
@@ -57,6 +61,10 @@
     "check": {
       "codepoint": 61731,
       "source": "svg/check.svg"
+    },
+    "check-circle": {
+      "codepoint": 61812,
+      "source": "svg/check-circle.svg"
     },
     "chevron-down": {
       "codepoint": 61780,
@@ -90,9 +98,17 @@
       "codepoint": 61786,
       "source": "svg/chevron-up.svg"
     },
+    "circle": {
+      "codepoint": 61813,
+      "source": "svg/circle.svg"
+    },
     "clock": {
       "codepoint": 61775,
       "source": "svg/clock.svg"
+    },
+    "clock-3h": {
+      "codepoint": 61814,
+      "source": "svg/clock-3h.svg"
     },
     "close": {
       "codepoint": 61732,
@@ -101,6 +117,14 @@
     "columns-alt": {
       "codepoint": 61733,
       "source": "svg/columns-alt.svg"
+    },
+    "comment": {
+      "codepoint": 61815,
+      "source": "svg/comment.svg"
+    },
+    "comment-idea": {
+      "codepoint": 61816,
+      "source": "svg/comment-idea.svg"
     },
     "comments": {
       "codepoint": 61734,
@@ -153,6 +177,10 @@
     "file-excel": {
       "codepoint": 61743,
       "source": "svg/file-excel.svg"
+    },
+    "file-img": {
+      "codepoint": 61817,
+      "source": "svg/file-img.svg"
     },
     "file-text": {
       "codepoint": 61744,
@@ -218,9 +246,17 @@
       "codepoint": 61772,
       "source": "svg/link.svg"
     },
+    "list": {
+      "codepoint": 61818,
+      "source": "svg/list.svg"
+    },
     "list-alt": {
       "codepoint": 61752,
       "source": "svg/list-alt.svg"
+    },
+    "list-o": {
+      "codepoint": 61819,
+      "source": "svg/list-o.svg"
     },
     "metrics": {
       "codepoint": 61753,
@@ -262,6 +298,10 @@
       "codepoint": 61757,
       "source": "svg/plus.svg"
     },
+    "premium": {
+      "codepoint": 61820,
+      "source": "svg/premium.svg"
+    },
     "print": {
       "codepoint": 61758,
       "source": "svg/print.svg"
@@ -277,6 +317,10 @@
     "reload": {
       "codepoint": 61774,
       "source": "svg/reload.svg"
+    },
+    "rocket": {
+      "codepoint": 61821,
+      "source": "svg/rocket.svg"
     },
     "rss": {
       "codepoint": 61760,
@@ -314,21 +358,45 @@
       "codepoint": 61764,
       "source": "svg/tag.svg"
     },
+    "tag-o": {
+      "codepoint": 61822,
+      "source": "svg/tag-o.svg"
+    },
+    "tag2": {
+      "codepoint": 61823,
+      "source": "svg/tag2.svg"
+    },
     "th": {
       "codepoint": 61765,
       "source": "svg/th.svg"
+    },
+    "th-single": {
+      "codepoint": 61824,
+      "source": "svg/th-single.svg"
     },
     "thumb-down": {
       "codepoint": 61766,
       "source": "svg/thumb-down.svg"
     },
+    "thumb-down-o": {
+      "codepoint": 61825,
+      "source": "svg/thumb-down-o.svg"
+    },
     "thumb-up": {
       "codepoint": 61767,
       "source": "svg/thumb-up.svg"
     },
+    "thumb-up-o": {
+      "codepoint": 61826,
+      "source": "svg/thumb-up-o.svg"
+    },
     "times": {
       "codepoint": 61808,
       "source": "svg/times.svg"
+    },
+    "upload": {
+      "codepoint": 61827,
+      "source": "svg/upload.svg"
     },
     "usd-circle": {
       "codepoint": 61768,
