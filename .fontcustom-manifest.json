@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "bbb51d018ee92527d874c8b5e18f8665a0612ea27c836272401273470e15fad6",
-    "current": "bbb51d018ee92527d874c8b5e18f8665a0612ea27c836272401273470e15fad6"
+    "previous": "229ca1981efc9847fbb36b26a03730e1962b90682c8411229d0f13b4ebac7675",
+    "current": "229ca1981efc9847fbb36b26a03730e1962b90682c8411229d0f13b4ebac7675"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_bbb51d018ee92527d874c8b5e18f8665.ttf",
-    "dist/fonts/gaia-font-icons_bbb51d018ee92527d874c8b5e18f8665.svg",
-    "dist/fonts/gaia-font-icons_bbb51d018ee92527d874c8b5e18f8665.woff",
-    "dist/fonts/gaia-font-icons_bbb51d018ee92527d874c8b5e18f8665.eot"
+    "dist/fonts/gaia-font-icons_229ca1981efc9847fbb36b26a03730e1.ttf",
+    "dist/fonts/gaia-font-icons_229ca1981efc9847fbb36b26a03730e1.svg",
+    "dist/fonts/gaia-font-icons_229ca1981efc9847fbb36b26a03730e1.woff",
+    "dist/fonts/gaia-font-icons_229ca1981efc9847fbb36b26a03730e1.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -17,6 +17,10 @@
     "arrow-down": {
       "codepoint": 61721,
       "source": "svg/arrow-down.svg"
+    },
+    "ban": {
+      "codepoint": 61829,
+      "source": "svg/ban.svg"
     },
     "bar-y": {
       "codepoint": 61722,
@@ -45,6 +49,26 @@
     "calendar": {
       "codepoint": 61727,
       "source": "svg/calendar.svg"
+    },
+    "calender-birth": {
+      "codepoint": 61830,
+      "source": "svg/calender-birth.svg"
+    },
+    "calender-car": {
+      "codepoint": 61831,
+      "source": "svg/calender-car.svg"
+    },
+    "calender-check": {
+      "codepoint": 61832,
+      "source": "svg/calender-check.svg"
+    },
+    "calender-clear": {
+      "codepoint": 61833,
+      "source": "svg/calender-clear.svg"
+    },
+    "calender-phone": {
+      "codepoint": 61834,
+      "source": "svg/calender-phone.svg"
     },
     "camera": {
       "codepoint": 61728,
@@ -102,6 +126,10 @@
       "codepoint": 61813,
       "source": "svg/circle.svg"
     },
+    "clip": {
+      "codepoint": 61835,
+      "source": "svg/clip.svg"
+    },
     "clock": {
       "codepoint": 61775,
       "source": "svg/clock.svg"
@@ -129,6 +157,10 @@
     "comments": {
       "codepoint": 61734,
       "source": "svg/comments.svg"
+    },
+    "comments-rounded": {
+      "codepoint": 61836,
+      "source": "svg/comments-rounded.svg"
     },
     "desktop": {
       "codepoint": 61735,
@@ -182,6 +214,10 @@
       "codepoint": 61817,
       "source": "svg/file-img.svg"
     },
+    "file-pdf-o": {
+      "codepoint": 61837,
+      "source": "svg/file-pdf-o.svg"
+    },
     "file-text": {
       "codepoint": 61744,
       "source": "svg/file-text.svg"
@@ -189,6 +225,10 @@
     "file-word": {
       "codepoint": 61745,
       "source": "svg/file-word.svg"
+    },
+    "file-word-o": {
+      "codepoint": 61838,
+      "source": "svg/file-word-o.svg"
     },
     "files": {
       "codepoint": 61746,
@@ -262,9 +302,17 @@
       "codepoint": 61828,
       "source": "svg/lock.svg"
     },
+    "logout": {
+      "codepoint": 61839,
+      "source": "svg/logout.svg"
+    },
     "metrics": {
       "codepoint": 61753,
       "source": "svg/metrics.svg"
+    },
+    "money-bag": {
+      "codepoint": 61840,
+      "source": "svg/money-bag.svg"
     },
     "music": {
       "codepoint": 61789,
@@ -334,6 +382,10 @@
       "codepoint": 61793,
       "source": "svg/sad.svg"
     },
+    "sad-o": {
+      "codepoint": 61841,
+      "source": "svg/sad-o.svg"
+    },
     "search": {
       "codepoint": 61761,
       "source": "svg/search.svg"
@@ -349,6 +401,10 @@
     "smile": {
       "codepoint": 61794,
       "source": "svg/smile.svg"
+    },
+    "smile-o": {
+      "codepoint": 61842,
+      "source": "svg/smile-o.svg"
     },
     "star": {
       "codepoint": 61762,
@@ -398,6 +454,14 @@
       "codepoint": 61808,
       "source": "svg/times.svg"
     },
+    "trash": {
+      "codepoint": 61843,
+      "source": "svg/trash.svg"
+    },
+    "trash-user": {
+      "codepoint": 61844,
+      "source": "svg/trash-user.svg"
+    },
     "upload": {
       "codepoint": 61827,
       "source": "svg/upload.svg"
@@ -409,6 +473,10 @@
     "user": {
       "codepoint": 61769,
       "source": "svg/user.svg"
+    },
+    "user-plus": {
+      "codepoint": 61845,
+      "source": "svg/user-plus.svg"
     },
     "users": {
       "codepoint": 61770,
