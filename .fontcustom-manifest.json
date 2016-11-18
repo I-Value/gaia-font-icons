@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "80d65faa8db296cd22bf3ab5d3128e04d0aa11ed6c9a505c6fb08ea1a41bc33c",
-    "current": "80d65faa8db296cd22bf3ab5d3128e04d0aa11ed6c9a505c6fb08ea1a41bc33c"
+    "previous": "08654ae52df1e569513af2e3449ea3df6e45d7c88c4e1afa471a1d406547edf2",
+    "current": "08654ae52df1e569513af2e3449ea3df6e45d7c88c4e1afa471a1d406547edf2"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_80d65faa8db296cd22bf3ab5d3128e04.ttf",
-    "dist/fonts/gaia-font-icons_80d65faa8db296cd22bf3ab5d3128e04.svg",
-    "dist/fonts/gaia-font-icons_80d65faa8db296cd22bf3ab5d3128e04.woff",
-    "dist/fonts/gaia-font-icons_80d65faa8db296cd22bf3ab5d3128e04.eot"
+    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.ttf",
+    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.svg",
+    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.woff",
+    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -125,6 +125,10 @@
     "circle": {
       "codepoint": 61813,
       "source": "svg/circle.svg"
+    },
+    "circle-o": {
+      "codepoint": 61846,
+      "source": "svg/circle-o.svg"
     },
     "clip": {
       "codepoint": 61835,
@@ -524,8 +528,8 @@
     "font_name": "gaia-font-icons",
     "force": false,
     "input": {
-      "templates": "svg",
-      "vectors": "svg"
+      "templates": "svg/",
+      "vectors": "svg/"
     },
     "no_hash": false,
     "output": {
