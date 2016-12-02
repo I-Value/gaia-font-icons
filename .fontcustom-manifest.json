@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "08654ae52df1e569513af2e3449ea3df6e45d7c88c4e1afa471a1d406547edf2",
-    "current": "08654ae52df1e569513af2e3449ea3df6e45d7c88c4e1afa471a1d406547edf2"
+    "previous": "6ebd967b97f68e995149171428cf7a86110f8f18a4e6704118575e473cb2df28",
+    "current": "6ebd967b97f68e995149171428cf7a86110f8f18a4e6704118575e473cb2df28"
   },
   "fonts": [
-    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.ttf",
-    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.svg",
-    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.woff",
-    "dist/fonts/gaia-font-icons_08654ae52df1e569513af2e3449ea3df.eot"
+    "dist/fonts/gaia-font-icons_6ebd967b97f68e995149171428cf7a86.ttf",
+    "dist/fonts/gaia-font-icons_6ebd967b97f68e995149171428cf7a86.svg",
+    "dist/fonts/gaia-font-icons_6ebd967b97f68e995149171428cf7a86.woff",
+    "dist/fonts/gaia-font-icons_6ebd967b97f68e995149171428cf7a86.eot"
   ],
   "glyphs": {
     "arrow-circle-up": {
@@ -50,25 +50,25 @@
       "codepoint": 61727,
       "source": "svg/calendar.svg"
     },
-    "calender-birth": {
-      "codepoint": 61830,
-      "source": "svg/calender-birth.svg"
+    "calendar-birth": {
+      "codepoint": 61847,
+      "source": "svg/calendar-birth.svg"
     },
-    "calender-car": {
-      "codepoint": 61831,
-      "source": "svg/calender-car.svg"
+    "calendar-car": {
+      "codepoint": 61848,
+      "source": "svg/calendar-car.svg"
     },
-    "calender-check": {
-      "codepoint": 61832,
-      "source": "svg/calender-check.svg"
+    "calendar-check": {
+      "codepoint": 61849,
+      "source": "svg/calendar-check.svg"
     },
-    "calender-clear": {
-      "codepoint": 61833,
-      "source": "svg/calender-clear.svg"
+    "calendar-clear": {
+      "codepoint": 61850,
+      "source": "svg/calendar-clear.svg"
     },
-    "calender-phone": {
-      "codepoint": 61834,
-      "source": "svg/calender-phone.svg"
+    "calendar-phone": {
+      "codepoint": 61851,
+      "source": "svg/calendar-phone.svg"
     },
     "camera": {
       "codepoint": 61728,
